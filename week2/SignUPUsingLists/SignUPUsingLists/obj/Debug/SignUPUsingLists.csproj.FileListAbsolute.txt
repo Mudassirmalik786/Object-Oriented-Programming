@@ -1,0 +1,7 @@
+C:\OOP\week2\SignUPUsingLists\SignUPUsingLists\bin\Debug\SignUPUsingLists.exe.config
+C:\OOP\week2\SignUPUsingLists\SignUPUsingLists\bin\Debug\SignUPUsingLists.exe
+C:\OOP\week2\SignUPUsingLists\SignUPUsingLists\bin\Debug\SignUPUsingLists.pdb
+C:\OOP\week2\SignUPUsingLists\SignUPUsingLists\obj\Debug\SignUPUsingLists.csproj.AssemblyReference.cache
+C:\OOP\week2\SignUPUsingLists\SignUPUsingLists\obj\Debug\SignUPUsingLists.csproj.CoreCompileInputs.cache
+C:\OOP\week2\SignUPUsingLists\SignUPUsingLists\obj\Debug\SignUPUsingLists.exe
+C:\OOP\week2\SignUPUsingLists\SignUPUsingLists\obj\Debug\SignUPUsingLists.pdb
