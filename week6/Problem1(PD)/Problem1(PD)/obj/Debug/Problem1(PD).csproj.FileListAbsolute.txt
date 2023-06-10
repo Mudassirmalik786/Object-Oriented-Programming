@@ -1,0 +1,10 @@
+E:\OOP\week6\Problem1(PD)\Problem1(PD)\bin\Debug\Problem1(PD).exe.config
+E:\OOP\week6\Problem1(PD)\Problem1(PD)\bin\Debug\Problem1(PD).exe
+E:\OOP\week6\Problem1(PD)\Problem1(PD)\bin\Debug\Problem1(PD).pdb
+E:\OOP\week6\Problem1(PD)\Problem1(PD)\obj\Debug\Problem1(PD).csproj.AssemblyReference.cache
+E:\OOP\week6\Problem1(PD)\Problem1(PD)\obj\Debug\Problem1(PD).csproj.CoreCompileInputs.cache
+E:\OOP\week6\Problem1(PD)\Problem1(PD)\obj\Debug\Problem1(PD).exe
+E:\OOP\week6\Problem1(PD)\Problem1(PD)\obj\Debug\Problem1(PD).pdb
+E:\OOP\week6\Problem1(PD)\Problem1(PD)\bin\Debug\EZInput.dll
+E:\OOP\week6\Problem1(PD)\Problem1(PD)\bin\Debug\EZInput.xml
+E:\OOP\week6\Problem1(PD)\Problem1(PD)\obj\Debug\Problem1(PD).csproj.CopyComplete

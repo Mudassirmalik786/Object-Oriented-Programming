@@ -1,0 +1,7 @@
+E:\OOP\week7\FirstTask\FirstTask\bin\Debug\FirstTask.exe.config
+E:\OOP\week7\FirstTask\FirstTask\bin\Debug\FirstTask.exe
+E:\OOP\week7\FirstTask\FirstTask\bin\Debug\FirstTask.pdb
+E:\OOP\week7\FirstTask\FirstTask\obj\Debug\FirstTask.csproj.AssemblyReference.cache
+E:\OOP\week7\FirstTask\FirstTask\obj\Debug\FirstTask.csproj.CoreCompileInputs.cache
+E:\OOP\week7\FirstTask\FirstTask\obj\Debug\FirstTask.exe
+E:\OOP\week7\FirstTask\FirstTask\obj\Debug\FirstTask.pdb
