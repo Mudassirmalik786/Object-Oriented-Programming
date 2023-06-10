@@ -1,0 +1,7 @@
+E:\OOP\week6\Problem2\Problem2\bin\Debug\Problem2.exe.config
+E:\OOP\week6\Problem2\Problem2\bin\Debug\Problem2.exe
+E:\OOP\week6\Problem2\Problem2\bin\Debug\Problem2.pdb
+E:\OOP\week6\Problem2\Problem2\obj\Debug\Problem2.csproj.AssemblyReference.cache
+E:\OOP\week6\Problem2\Problem2\obj\Debug\Problem2.csproj.CoreCompileInputs.cache
+E:\OOP\week6\Problem2\Problem2\obj\Debug\Problem2.exe
+E:\OOP\week6\Problem2\Problem2\obj\Debug\Problem2.pdb
