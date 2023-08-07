@@ -1,0 +1,10 @@
+E:\OOP\week10\PacmanWithOOP\PacmanWithOOP\obj\Debug\PacmanWithOOP.csproj.AssemblyReference.cache
+E:\OOP\week10\PacmanWithOOP\PacmanWithOOP\obj\Debug\PacmanWithOOP.csproj.CoreCompileInputs.cache
+E:\OOP\week10\PacmanWithOOP\PacmanWithOOP\bin\Debug\PacmanWithOOP.exe.config
+E:\OOP\week10\PacmanWithOOP\PacmanWithOOP\bin\Debug\PacmanWithOOP.exe
+E:\OOP\week10\PacmanWithOOP\PacmanWithOOP\bin\Debug\PacmanWithOOP.pdb
+E:\OOP\week10\PacmanWithOOP\PacmanWithOOP\bin\Debug\EZInput.dll
+E:\OOP\week10\PacmanWithOOP\PacmanWithOOP\bin\Debug\EZInput.xml
+E:\OOP\week10\PacmanWithOOP\PacmanWithOOP\obj\Debug\PacmanWithOOP.csproj.CopyComplete
+E:\OOP\week10\PacmanWithOOP\PacmanWithOOP\obj\Debug\PacmanWithOOP.exe
+E:\OOP\week10\PacmanWithOOP\PacmanWithOOP\obj\Debug\PacmanWithOOP.pdb
